@@ -1,0 +1,13 @@
+Id,Name,Year,Gender,State,Count
+1,Mary,1910,F,AK,14
+2,Annie,1910,F,AK,12
+3,Anna,1910,F,AK,10
+4,Margaret,1910,F,AK,8
+.
+.
+.
+5647422,Seth,2014,M,WY,5
+5647423,Spencer,2014,M,WY,5
+5647424,Tyce,2014,M,WY,5
+5647425,Victor,2014,M,WY,5
+5647426,Waylon,2014,M,WY,5
